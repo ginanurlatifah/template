@@ -1,4 +1,4 @@
 # 2021105843
-Gina Nur Latifah
-Praktikum Templating
+Gina Nur Latifah<br>
+Praktikum Templating<br>
 XII RPL 2
